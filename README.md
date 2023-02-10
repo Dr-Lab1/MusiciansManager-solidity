@@ -1,0 +1,1 @@
+# MusiciansManager-solidity
